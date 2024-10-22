@@ -1,0 +1,4214 @@
+[
+  {
+    "Art": 3105806,
+    "UPC": 7501253612062,
+    "Descriptivo": "Paq x 8 Pan Hamburguesa Selecto 500 grs",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3105807,
+    "UPC": 7501253612079,
+    "Descriptivo": "Pan Hot Dog Selecto 350 grs",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3105808,
+    "UPC": 7501253612697,
+    "Descriptivo": "Pan de Caja Selecto 625 grs",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3105817,
+    "UPC": 2350430,
+    "Descriptivo": "Bolillo Infantil",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3105818,
+    "UPC": 2350432,
+    "Descriptivo": "Telera Infantil",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3105820,
+    "UPC": 2350436,
+    "Descriptivo": "R Pambazo Xalapeño Infantil",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "R"
+  },
+  {
+    "Art": 3105823,
+    "UPC": 2350442,
+    "Descriptivo": "Figura Española Cuerno",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3105836,
+    "UPC": 2350468,
+    "Descriptivo": "R Pambazo Xalapeño",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "R"
+  },
+  {
+    "Art": 3105845,
+    "UPC": 2350486,
+    "Descriptivo": "Pan de Manteca",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3105852,
+    "UPC": 2350500,
+    "Descriptivo": "Gusano",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3105853,
+    "UPC": 2350502,
+    "Descriptivo": "Cubilete Queso",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3105854,
+    "UPC": 2350504,
+    "Descriptivo": "Cubilete Elote",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3105855,
+    "UPC": 2350506,
+    "Descriptivo": "Cubilete Fresa",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3105856,
+    "UPC": 2350508,
+    "Descriptivo": "Rebanada de Queso",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3105857,
+    "UPC": 2350510,
+    "Descriptivo": "Abanico",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3105858,
+    "UPC": 2350512,
+    "Descriptivo": "Banderillas",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3105859,
+    "UPC": 2350514,
+    "Descriptivo": "Paloma",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3105860,
+    "UPC": 2350516,
+    "Descriptivo": "Campechana",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3105866,
+    "UPC": 2350528,
+    "Descriptivo": "Espejo Cobertura Chocolate",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3105867,
+    "UPC": 2350530,
+    "Descriptivo": "Espejo Cobertura Blanca",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3105868,
+    "UPC": 2350532,
+    "Descriptivo": "Galleta Grajea Color",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3105872,
+    "UPC": 2350540,
+    "Descriptivo": "R Galleta Gendarme",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "R"
+  },
+  {
+    "Art": 3105873,
+    "UPC": 2350542,
+    "Descriptivo": "Galleta Nuez",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3105875,
+    "UPC": 2350546,
+    "Descriptivo": "Yoyos",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3105880,
+    "UPC": 2350556,
+    "Descriptivo": "Dona Azucarada",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3105881,
+    "UPC": 2350558,
+    "Descriptivo": "Dona Cobertura Choco",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3105882,
+    "UPC": 2350560,
+    "Descriptivo": "Dona Cobertura Glass",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3105883,
+    "UPC": 2350562,
+    "Descriptivo": "Dona Cobertura Maple",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3105885,
+    "UPC": 2350566,
+    "Descriptivo": "Budin",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3105886,
+    "UPC": 2350568,
+    "Descriptivo": "Ladrillo",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3105887,
+    "UPC": 2350570,
+    "Descriptivo": "Piedras",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3105888,
+    "UPC": 2350572,
+    "Descriptivo": "Mini Oreja",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3105889,
+    "UPC": 2350574,
+    "Descriptivo": "Mini Banderillas",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3105890,
+    "UPC": 2350576,
+    "Descriptivo": "Mini Corbata",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3105891,
+    "UPC": 2350578,
+    "Descriptivo": "Mini Cuerno",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3105892,
+    "UPC": 2350580,
+    "Descriptivo": "Mini Concha Amarilla",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3105893,
+    "UPC": 2350582,
+    "Descriptivo": "Mini Concha Blanca",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3105894,
+    "UPC": 2350584,
+    "Descriptivo": "Mini Concha Chocolate",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3105896,
+    "UPC": 2350588,
+    "Descriptivo": "Taco Piña",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3105897,
+    "UPC": 2350590,
+    "Descriptivo": "Taco Fresa",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3105898,
+    "UPC": 2350592,
+    "Descriptivo": "Taco Crema",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3105899,
+    "UPC": 2350594,
+    "Descriptivo": "Canasta Feyte",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3105901,
+    "UPC": 2350598,
+    "Descriptivo": "Tartaleta Durazno",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3105906,
+    "UPC": 2350608,
+    "Descriptivo": "Barquillo Danés Relleno",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3105910,
+    "UPC": 2350616,
+    "Descriptivo": "Pastelito de Chocolate",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "S"
+  },
+  {
+    "Art": 3105911,
+    "UPC": 2350618,
+    "Descriptivo": "Ojos Vainilla",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3105912,
+    "UPC": 2350620,
+    "Descriptivo": "Ojos Chocolate",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3105921,
+    "UPC": 2503173,
+    "Descriptivo": "Pasti Galletas kg",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3105922,
+    "UPC": 2503175,
+    "Descriptivo": "Galleta Pasta Seca kg",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3105925,
+    "UPC": 2503181,
+    "Descriptivo": "Pasta de Hojaldre Kg.",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3105946,
+    "UPC": 2350670,
+    "Descriptivo": "Trenza Suiza",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3105947,
+    "UPC": 2350672,
+    "Descriptivo": "Bolinacho",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3105948,
+    "UPC": 2350674,
+    "Descriptivo": "Pan Sureño",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3105957,
+    "UPC": 2350678,
+    "Descriptivo": "Bollo Queso",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3105958,
+    "UPC": 2350680,
+    "Descriptivo": "Rollito Jamon\/Queso",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3105960,
+    "UPC": 2350684,
+    "Descriptivo": "Concha Premium Vainilla",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3105961,
+    "UPC": 2350686,
+    "Descriptivo": "Concha Premium Chocolate",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3105962,
+    "UPC": 2350688,
+    "Descriptivo": "Bolillo Integral",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3105987,
+    "UPC": 2350704,
+    "Descriptivo": "Baguettine",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3105988,
+    "UPC": 2350706,
+    "Descriptivo": "Pan de Ajo",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3105989,
+    "UPC": 2350708,
+    "Descriptivo": "Pan de Cebolla",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3105990,
+    "UPC": 2350710,
+    "Descriptivo": "R Resobado",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "R"
+  },
+  {
+    "Art": 3105999,
+    "UPC": 2503195,
+    "Descriptivo": "Galleta de Coco Kg",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3106011,
+    "UPC": 2350730,
+    "Descriptivo": "Croissant Chocolatin",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3106012,
+    "UPC": 2350732,
+    "Descriptivo": "Croissant Novia",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3106013,
+    "UPC": 2350734,
+    "Descriptivo": "Croissant",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3106059,
+    "UPC": 2350750,
+    "Descriptivo": "Vidrio",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3106099,
+    "UPC": 2350770,
+    "Descriptivo": "Multi Vainilla",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3106100,
+    "UPC": 2350772,
+    "Descriptivo": "Multis Chocolate",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3106147,
+    "UPC": 2350816,
+    "Descriptivo": "Ciabatta Gde",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3106149,
+    "UPC": 2350820,
+    "Descriptivo": "Ciabatta Aceituna Negra Gde",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3106151,
+    "UPC": 2350824,
+    "Descriptivo": "Ciabatta Mediano",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3106153,
+    "UPC": 2350828,
+    "Descriptivo": "Ciabatta Mini",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3106159,
+    "UPC": 2350840,
+    "Descriptivo": "Pan Multicereal",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3106170,
+    "UPC": 2350848,
+    "Descriptivo": "Oreja",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "B"
+  },
+  {
+    "Art": 3106176,
+    "UPC": 7501253641529,
+    "Descriptivo": "Pan Integral S-Fresh",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3106177,
+    "UPC": 7501253641550,
+    "Descriptivo": "Pan 7 Granos S-Fresh",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3106178,
+    "UPC": 7501253641536,
+    "Descriptivo": "Pan Centeno Natural S-Fresh",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3106179,
+    "UPC": 7501253641543,
+    "Descriptivo": "Pan Semilla Girasol S-Fresh",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3115033,
+    "UPC": 2351202,
+    "Descriptivo": "Pan de Muerto Chico Queso Zarzamora",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "T"
+  },
+  {
+    "Art": 3145915,
+    "UPC": 2504040,
+    "Descriptivo": "Pan Molido kg",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3151421,
+    "UPC": 2351350,
+    "Descriptivo": "Pan De Muerto Azúcar 80gr",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "T"
+  },
+  {
+    "Art": 3151449,
+    "UPC": 2355076,
+    "Descriptivo": "Pan De Muerto Azúcar Grande 500gr",
+    "MESA": "BISCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "T"
+  },
+  {
+    "Art": 3151997,
+    "UPC": 2351472,
+    "Descriptivo": "Pan De Muerto Ajonjolí 80gr",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "T"
+  },
+  {
+    "Art": 3151998,
+    "UPC": 2351475,
+    "Descriptivo": "Pan De Muerto Ajonjolí Grande 500gr",
+    "MESA": "BISCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "T"
+  },
+  {
+    "Art": 3166080,
+    "UPC": 2351861,
+    "Descriptivo": "Broca Feyte",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3166087,
+    "UPC": 2351862,
+    "Descriptivo": "Barquillo Feyte",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3166122,
+    "UPC": 2351869,
+    "Descriptivo": "Laurel",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3166149,
+    "UPC": 2351871,
+    "Descriptivo": "Cortadillo Vainilla",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3166151,
+    "UPC": 2351872,
+    "Descriptivo": "Cortadillo Chocolate",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3166153,
+    "UPC": 2351873,
+    "Descriptivo": "R Micha",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "R"
+  },
+  {
+    "Art": 3166172,
+    "UPC": 2351875,
+    "Descriptivo": "R Paq. x 6 Galleta de Agua",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "R"
+  },
+  {
+    "Art": 3166184,
+    "UPC": 2351877,
+    "Descriptivo": "R Bolillo Calabacero",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "R"
+  },
+  {
+    "Art": 3166190,
+    "UPC": 2351878,
+    "Descriptivo": "R Pambazo",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "R"
+  },
+  {
+    "Art": 3166195,
+    "UPC": 2351879,
+    "Descriptivo": "R Cema Poblana",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "R"
+  },
+  {
+    "Art": 3166199,
+    "UPC": 2351880,
+    "Descriptivo": "R Cocol Anis",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "R"
+  },
+  {
+    "Art": 3166205,
+    "UPC": 2351881,
+    "Descriptivo": "R Coloradas",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "R"
+  },
+  {
+    "Art": 3166207,
+    "UPC": 2351882,
+    "Descriptivo": "R Pan Caja Sandwichon",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "R"
+  },
+  {
+    "Art": 3170173,
+    "UPC": 2355309,
+    "Descriptivo": "Mini Pay de Elote",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3186534,
+    "UPC": 2351981,
+    "Descriptivo": "Cariocas",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3186535,
+    "UPC": 2351982,
+    "Descriptivo": "Cuerno Splenda",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3186536,
+    "UPC": 2351983,
+    "Descriptivo": "Bisquet Splenda",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3187213,
+    "UPC": 2352000,
+    "Descriptivo": "R Cazueleja Chiapaneca",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "R"
+  },
+  {
+    "Art": 3187214,
+    "UPC": 2352001,
+    "Descriptivo": "R Pan Coleto",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "R"
+  },
+  {
+    "Art": 3187233,
+    "UPC": 2352004,
+    "Descriptivo": "R Mini Cuerno Rell Jam\/Que",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "R"
+  },
+  {
+    "Art": 3187237,
+    "UPC": 2352005,
+    "Descriptivo": "R Mini Marinas",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "R"
+  },
+  {
+    "Art": 3187246,
+    "UPC": 2352007,
+    "Descriptivo": "R Mini Marinas Rell Jam\/Que",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "R"
+  },
+  {
+    "Art": 3187249,
+    "UPC": 2352010,
+    "Descriptivo": "R Mini Pambazo Rell Jam\/Que",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "R"
+  },
+  {
+    "Art": 3191179,
+    "UPC": 2352055,
+    "Descriptivo": "Dona Cobertura Bca",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3191183,
+    "UPC": 2352059,
+    "Descriptivo": "R Rosca Brioche",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "R"
+  },
+  {
+    "Art": 3191184,
+    "UPC": 2352060,
+    "Descriptivo": "R Patas Jamon\/Queso",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "R"
+  },
+  {
+    "Art": 3191186,
+    "UPC": 2352062,
+    "Descriptivo": "R Bolitas de Queso Merida",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "R"
+  },
+  {
+    "Art": 3191188,
+    "UPC": 2352063,
+    "Descriptivo": "R Barra de Hoja",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "R"
+  },
+  {
+    "Art": 3191189,
+    "UPC": 2352064,
+    "Descriptivo": "R Cocotazo",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "R"
+  },
+  {
+    "Art": 3191190,
+    "UPC": 2352065,
+    "Descriptivo": "R Barra de Huevo",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "R"
+  },
+  {
+    "Art": 3193179,
+    "UPC": 2352090,
+    "Descriptivo": "Bísquet Tradicional",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3196869,
+    "UPC": 2352252,
+    "Descriptivo": "R Pan Dulce de Coatza",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "R"
+  },
+  {
+    "Art": 3196871,
+    "UPC": 2352253,
+    "Descriptivo": "R Cascos de Jamon",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "R"
+  },
+  {
+    "Art": 3196873,
+    "UPC": 2352255,
+    "Descriptivo": "R Pan Regional Tabasco",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "R"
+  },
+  {
+    "Art": 3196875,
+    "UPC": 2352256,
+    "Descriptivo": "Paq. x 24 Panecillos Suaves",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3196876,
+    "UPC": 2352257,
+    "Descriptivo": "R Hojaldra Jamon\/Queso",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "R"
+  },
+  {
+    "Art": 3196878,
+    "UPC": 2352258,
+    "Descriptivo": "R Riñones Queso Crema",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "R"
+  },
+  {
+    "Art": 3205055,
+    "UPC": 2352314,
+    "Descriptivo": "Kosher Ciabatta Fendu",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3205057,
+    "UPC": 2352316,
+    "Descriptivo": "Foccacia",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3205071,
+    "UPC": 2352320,
+    "Descriptivo": "Bisquet Mantequilla\/Queso Tradicional",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3205073,
+    "UPC": 2352321,
+    "Descriptivo": "Mini Bisquet",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3205079,
+    "UPC": 2352324,
+    "Descriptivo": "Mini Broca de Queso",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3205121,
+    "UPC": 2352337,
+    "Descriptivo": "Kosher Chocolatin",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3205122,
+    "UPC": 2352338,
+    "Descriptivo": "Kosher Crossaint",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3205125,
+    "UPC": 2352341,
+    "Descriptivo": "Kosher Hallot",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3205393,
+    "UPC": 2352361,
+    "Descriptivo": "Kosher Concha Bca",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3205394,
+    "UPC": 2352362,
+    "Descriptivo": "Kosher Concha Chocolate",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3205397,
+    "UPC": 2352364,
+    "Descriptivo": "Kosher Riel",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3205398,
+    "UPC": 2352365,
+    "Descriptivo": "Kosher Palomas",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3205400,
+    "UPC": 2352366,
+    "Descriptivo": "Kosher Banderillas",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3205401,
+    "UPC": 2352367,
+    "Descriptivo": "Kosher Orejas",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3205404,
+    "UPC": 2352370,
+    "Descriptivo": "Kosher Broca",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3205407,
+    "UPC": 2352371,
+    "Descriptivo": "Kosher Cuadro Almendra",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3205408,
+    "UPC": 2352372,
+    "Descriptivo": "Kosher Cocol",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3205424,
+    "UPC": 2352376,
+    "Descriptivo": "Kosher Mini Crossaint",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3205425,
+    "UPC": 2352377,
+    "Descriptivo": "Kosher Mini Chocolatin",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3205427,
+    "UPC": 2352378,
+    "Descriptivo": "*Pan Caritas 110 gr",
+    "MESA": "BISCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "T"
+  },
+  {
+    "Art": 3205428,
+    "UPC": 2352379,
+    "Descriptivo": "*Pan Caritas 500 gr",
+    "MESA": "BISCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "T"
+  },
+  {
+    "Art": 3205429,
+    "UPC": 2352380,
+    "Descriptivo": "*Pan Caritas 1000 gr",
+    "MESA": "BISCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "T"
+  },
+  {
+    "Art": 3206102,
+    "UPC": 2352426,
+    "Descriptivo": "Kosher Baguetin",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3206109,
+    "UPC": 2352425,
+    "Descriptivo": "Kosher Campesina",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3206111,
+    "UPC": 2352424,
+    "Descriptivo": "Kosher Cubano",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3206118,
+    "UPC": 2352423,
+    "Descriptivo": "Kosher Huesos",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3206121,
+    "UPC": 2352427,
+    "Descriptivo": "Kosher Pelona",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3206122,
+    "UPC": 2352422,
+    "Descriptivo": "Kosher Resobado",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3206124,
+    "UPC": 2352421,
+    "Descriptivo": "Kosher Panque",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3206125,
+    "UPC": 2352435,
+    "Descriptivo": "Kosher Panque Nuez",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3206138,
+    "UPC": 2352416,
+    "Descriptivo": "Kosher Rosca Vainilla",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3206656,
+    "UPC": 2352474,
+    "Descriptivo": "Rosca de Nuez",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3206658,
+    "UPC": 2352476,
+    "Descriptivo": "Rosca Marmoleada.",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3206659,
+    "UPC": 2352477,
+    "Descriptivo": "Rosca de Chocolate",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3206753,
+    "UPC": 2352507,
+    "Descriptivo": "R Mini Barra de Hoja",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "R"
+  },
+  {
+    "Art": 3208815,
+    "UPC": 2352555,
+    "Descriptivo": "R Mini Hojaldra",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "R"
+  },
+  {
+    "Art": 3211130,
+    "UPC": 2352633,
+    "Descriptivo": "R Cema de Huevo",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "R"
+  },
+  {
+    "Art": 3214979,
+    "UPC": 2352775,
+    "Descriptivo": "R Tranca Ch",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "R"
+  },
+  {
+    "Art": 3215220,
+    "UPC": 2352776,
+    "Descriptivo": "R Tranca Med",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "R"
+  },
+  {
+    "Art": 3216884,
+    "UPC": 2352912,
+    "Descriptivo": "Mini Concha Premium Vainilla",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3216964,
+    "UPC": 2352928,
+    "Descriptivo": "Mini Concha Premium Chocolate",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3217675,
+    "UPC": 2506157,
+    "Descriptivo": "Galleta Mantequilla kg",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3218603,
+    "UPC": 2352983,
+    "Descriptivo": "R Paq. x 10 Francés de Agua",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "R"
+  },
+  {
+    "Art": 3218604,
+    "UPC": 2352984,
+    "Descriptivo": "Bolillo Tostado con Azúcar 6 Pzs",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "R"
+  },
+  {
+    "Art": 3218605,
+    "UPC": 2352985,
+    "Descriptivo": "Rebanadas Pan Blanco Tostado 7 Pzs",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "R"
+  },
+  {
+    "Art": 3218606,
+    "UPC": 2352986,
+    "Descriptivo": "R Paq. x 10 Galleta Manteca",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "R"
+  },
+  {
+    "Art": 3218607,
+    "UPC": 2352987,
+    "Descriptivo": "R Hojaldritas",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "R"
+  },
+  {
+    "Art": 3218630,
+    "UPC": 2352990,
+    "Descriptivo": "R Biscotela",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "R"
+  },
+  {
+    "Art": 3218873,
+    "UPC": 2353002,
+    "Descriptivo": "R Paq. x 8 Pan de Torta",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "R"
+  },
+  {
+    "Art": 3218875,
+    "UPC": 2353003,
+    "Descriptivo": "R Saramuyo",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "R"
+  },
+  {
+    "Art": 3218877,
+    "UPC": 2353004,
+    "Descriptivo": "R Hojaldra Jamon\/Queso Merida",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "R"
+  },
+  {
+    "Art": 3218903,
+    "UPC": 2353008,
+    "Descriptivo": "R Manitas Jamon y Queso",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "R"
+  },
+  {
+    "Art": 3218904,
+    "UPC": 2353009,
+    "Descriptivo": "R Cuellos",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "R"
+  },
+  {
+    "Art": 3218906,
+    "UPC": 2353010,
+    "Descriptivo": "R Apastelado",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "R"
+  },
+  {
+    "Art": 3220095,
+    "UPC": 2353074,
+    "Descriptivo": "Picon",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3224358,
+    "UPC": 7501068418187,
+    "Descriptivo": "Minibanderilla Domo Trevi",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FRIP",
+    "ESTATUS ": "NR",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3226682,
+    "UPC": 2353429,
+    "Descriptivo": "Conchas Rellenas",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3232280,
+    "UPC": 2353591,
+    "Descriptivo": "Kosher Bolillo",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3233483,
+    "UPC": 2353651,
+    "Descriptivo": "Pan de Muerto x10 Chico Azucar",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "HAWA",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "T"
+  },
+  {
+    "Art": 3233484,
+    "UPC": 2353652,
+    "Descriptivo": "Pan de Muerto x10 Chico Cajeta",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "HAWA",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "T"
+  },
+  {
+    "Art": 3233485,
+    "UPC": 2353653,
+    "Descriptivo": "Paq. x 6 Concha Tradicional",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "HAWA",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3234138,
+    "UPC": 2353675,
+    "Descriptivo": "Paq. x 10 Rollitos Jamón",
+    "MESA": "FRANCES",
+    "TIPO ART": "HAWA",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3234139,
+    "UPC": 2353676,
+    "Descriptivo": "Paq. x 10 Bollitos de Queso",
+    "MESA": "FRANCES",
+    "TIPO ART": "HAWA",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3234182,
+    "UPC": 2353679,
+    "Descriptivo": "Paq. x 10 Pan Miniatura",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "HAWA",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3234183,
+    "UPC": 7501253629459,
+    "Descriptivo": "Paq. x 6 Concha Premium",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "HAWA",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3234184,
+    "UPC": 2353680,
+    "Descriptivo": "Paq. x 6 Pan Dulce Biscocho",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "HAWA",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3235448,
+    "UPC": 2355491,
+    "Descriptivo": "Pan De Muerto Azucar 250 Gr",
+    "MESA": "BISCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "T"
+  },
+  {
+    "Art": 3235450,
+    "UPC": 2353715,
+    "Descriptivo": "Pan de Muerto Ajonjoli 250 gr",
+    "MESA": "BISCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "T"
+  },
+  {
+    "Art": 3236236,
+    "UPC": 2353731,
+    "Descriptivo": "Pan de Muerto Chico Cajeta",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "T"
+  },
+  {
+    "Art": 3236446,
+    "UPC": 2353735,
+    "Descriptivo": "Pan de Muerto Chico Azucar",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "T"
+  },
+  {
+    "Art": 3236447,
+    "UPC": 2353736,
+    "Descriptivo": "Paq. x 5 Pan Muerto Azuc 80gr",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "HAWA",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "T"
+  },
+  {
+    "Art": 3236448,
+    "UPC": 2353737,
+    "Descriptivo": "Paq. x 5 Pan Muerto Ajon 80gr",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "HAWA",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "T"
+  },
+  {
+    "Art": 3236989,
+    "UPC": 2353749,
+    "Descriptivo": "Paq. x 6 Oreja\/Abanico",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "HAWA",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3238022,
+    "UPC": 2353755,
+    "Descriptivo": "*Nevados",
+    "MESA": "BISCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "T"
+  },
+  {
+    "Art": 3245712,
+    "UPC": 2354192,
+    "Descriptivo": "R Hojaldra Pan de Sal  H",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "R"
+  },
+  {
+    "Art": 3245713,
+    "UPC": 2354193,
+    "Descriptivo": "R Torta Huatusco",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "R"
+  },
+  {
+    "Art": 3246133,
+    "UPC": 2354212,
+    "Descriptivo": "R Chririmoyas",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "R"
+  },
+  {
+    "Art": 3246135,
+    "UPC": 2354214,
+    "Descriptivo": "R Mestiza",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "R"
+  },
+  {
+    "Art": 3248754,
+    "UPC": 2354260,
+    "Descriptivo": "R Mini Hojaldras Rell Jam\/Que",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "R"
+  },
+  {
+    "Art": 3248881,
+    "UPC": 2354281,
+    "Descriptivo": "Rebanada con Azúcar",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3248884,
+    "UPC": 2354284,
+    "Descriptivo": "Concha Amarilla",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3248885,
+    "UPC": 2354285,
+    "Descriptivo": "Concha Blanca",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "B"
+  },
+  {
+    "Art": 3248886,
+    "UPC": 2354286,
+    "Descriptivo": "Concha Chocolate",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "B"
+  },
+  {
+    "Art": 3248887,
+    "UPC": 2354287,
+    "Descriptivo": "Cocol",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3248888,
+    "UPC": 2354288,
+    "Descriptivo": "Rebanada de Chocolate",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3248889,
+    "UPC": 2354289,
+    "Descriptivo": "Hojaldra",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "B"
+  },
+  {
+    "Art": 3248900,
+    "UPC": 2354290,
+    "Descriptivo": "Corbata",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3248901,
+    "UPC": 2354291,
+    "Descriptivo": "Bigote",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3248902,
+    "UPC": 2354292,
+    "Descriptivo": "Trenza Danes",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3248930,
+    "UPC": 2354301,
+    "Descriptivo": "Hilos de Danes",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3248931,
+    "UPC": 2354302,
+    "Descriptivo": "Calabaza",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3248932,
+    "UPC": 2354303,
+    "Descriptivo": "Novia de Biscocho",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3248933,
+    "UPC": 2354304,
+    "Descriptivo": "Cuerno Danes",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "B"
+  },
+  {
+    "Art": 3248934,
+    "UPC": 2354305,
+    "Descriptivo": "Anteojo de Danes",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3248935,
+    "UPC": 2354306,
+    "Descriptivo": "Rol Envinados",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3248936,
+    "UPC": 2354307,
+    "Descriptivo": "Rol Tres Leches",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3248946,
+    "UPC": 2354317,
+    "Descriptivo": "Galleta Almeja",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3248948,
+    "UPC": 2354318,
+    "Descriptivo": "Polvoron Amarillo",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3248949,
+    "UPC": 2354319,
+    "Descriptivo": "Polvoron Chocolate",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3248961,
+    "UPC": 2354321,
+    "Descriptivo": "Polvoron Sevillano",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3248963,
+    "UPC": 2354322,
+    "Descriptivo": "Polvoron Tricolor",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3248964,
+    "UPC": 2354323,
+    "Descriptivo": "Polvoron Bicolor",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3248965,
+    "UPC": 2354324,
+    "Descriptivo": "Bolillo",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "B"
+  },
+  {
+    "Art": 3248967,
+    "UPC": 2354326,
+    "Descriptivo": "Bolillo Doble",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3248968,
+    "UPC": 2354327,
+    "Descriptivo": "Telera Doble",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3248969,
+    "UPC": 2354328,
+    "Descriptivo": "R Campesina",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3248970,
+    "UPC": 2354329,
+    "Descriptivo": "R Pelona",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3248971,
+    "UPC": 2354330,
+    "Descriptivo": "Baguette",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3248972,
+    "UPC": 2354331,
+    "Descriptivo": "Telera",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "B"
+  },
+  {
+    "Art": 3249164,
+    "UPC": 2354349,
+    "Descriptivo": "R Paq. x 6 Pan Coleto",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "HAWA",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "R"
+  },
+  {
+    "Art": 3262642,
+    "UPC": 2354572,
+    "Descriptivo": "Huesos con Azúcar",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3262646,
+    "UPC": 2507383,
+    "Descriptivo": "Kosher Pasta de Hojaldre kg",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3265199,
+    "UPC": 2354580,
+    "Descriptivo": "Paq. x 6 Bísquet",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "HAWA",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3265492,
+    "UPC": 2354547,
+    "Descriptivo": "Paq. x 12 Panecillos Suaves",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3269354,
+    "UPC": 2354601,
+    "Descriptivo": "Pan Barra Rustica",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3269355,
+    "UPC": 2354602,
+    "Descriptivo": "Pan Baguette Polish",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3269357,
+    "UPC": 2354603,
+    "Descriptivo": "Pan Pasas y Nuez",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3269358,
+    "UPC": 2354604,
+    "Descriptivo": "Pan Hogaza",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3269362,
+    "UPC": 2354607,
+    "Descriptivo": "Pan Chocolate y Papaya",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3269363,
+    "UPC": 2354608,
+    "Descriptivo": "Ciabatta Natural Rústica Grande",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3269680,
+    "UPC": 2354641,
+    "Descriptivo": "R Pan Lagunero",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "R"
+  },
+  {
+    "Art": 3269682,
+    "UPC": 2354643,
+    "Descriptivo": "R Mini Marianas",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "R"
+  },
+  {
+    "Art": 3272793,
+    "UPC": 2354715,
+    "Descriptivo": "Pan de Muerto Chocolate 80gr",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "T"
+  },
+  {
+    "Art": 3277311,
+    "UPC": 2354967,
+    "Descriptivo": "Ciabatta Tomato Rustica",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3284676,
+    "UPC": 2355123,
+    "Descriptivo": "Rosca Chocolate Hallowen",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "T"
+  },
+  {
+    "Art": 3313078,
+    "UPC": 2355413,
+    "Descriptivo": "R Volovan Queso y Jamon",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "R"
+  },
+  {
+    "Art": 3313079,
+    "UPC": 2355414,
+    "Descriptivo": "R Volovan Rell Piña",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "R"
+  },
+  {
+    "Art": 3313100,
+    "UPC": 2355415,
+    "Descriptivo": "R Volovan Rell Minilla",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "R"
+  },
+  {
+    "Art": 3317447,
+    "UPC": 2355471,
+    "Descriptivo": "Donas Decoradas Hallowen",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "T"
+  },
+  {
+    "Art": 3318910,
+    "UPC": 2355478,
+    "Descriptivo": "Dona Azucar Canela",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3330927,
+    "UPC": 2355668,
+    "Descriptivo": "R Pan de Nata Zit",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "R"
+  },
+  {
+    "Art": 3330928,
+    "UPC": 2355669,
+    "Descriptivo": "R Pan de Huevo Zit",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "R"
+  },
+  {
+    "Art": 3354078,
+    "UPC": 2355860,
+    "Descriptivo": "Pan Tostado Chedraui",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3366708,
+    "UPC": 2355952,
+    "Descriptivo": "Dona Conejo",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3366709,
+    "UPC": 2355953,
+    "Descriptivo": "Dona Tuffa",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3367080,
+    "UPC": 2355954,
+    "Descriptivo": "Dona Galletosa",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3367081,
+    "UPC": 2355955,
+    "Descriptivo": "Dona Mocca",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3367082,
+    "UPC": 2355956,
+    "Descriptivo": "Dona Exploción Frutos Rojos",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3367083,
+    "UPC": 2355957,
+    "Descriptivo": "Dona Ruby Caramel",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3376850,
+    "UPC": 2356021,
+    "Descriptivo": "R Rollito Jamón\/Queso Feite",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "R"
+  },
+  {
+    "Art": 3376853,
+    "UPC": 2508939,
+    "Descriptivo": "Mini Orejitas Kg",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3380099,
+    "UPC": 2356080,
+    "Descriptivo": "Paq. X 6 Pan Dulce Danes",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "HAWA",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3391455,
+    "UPC": 2356119,
+    "Descriptivo": "Kosher Berlinesa Crema Bavara",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3391459,
+    "UPC": 2356143,
+    "Descriptivo": "Kosher Churro Pza",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3391540,
+    "UPC": 2509055,
+    "Descriptivo": "Kosher Pan Molido Kg",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3392290,
+    "UPC": 2509056,
+    "Descriptivo": "Kosher Rosquilla Kg",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3393876,
+    "UPC": 2356150,
+    "Descriptivo": "R Cema Tabasco",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "R"
+  },
+  {
+    "Art": 3393878,
+    "UPC": 2356182,
+    "Descriptivo": "R Hojaldra Jamón\/Queso\/Pimientos",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "R"
+  },
+  {
+    "Art": 3399191,
+    "UPC": 2356187,
+    "Descriptivo": "R Paq. x 10 Mini Barra de Hoja",
+    "MESA": "FRANCES",
+    "TIPO ART": "HAWA",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "R"
+  },
+  {
+    "Art": 3415999,
+    "UPC": 2356352,
+    "Descriptivo": "Pan de Muerto Baileys Chico",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "T"
+  },
+  {
+    "Art": 3431669,
+    "UPC": 2356462,
+    "Descriptivo": "Canilla Splenda",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3431690,
+    "UPC": 2356463,
+    "Descriptivo": "Gusano Splenda",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3431691,
+    "UPC": 2356464,
+    "Descriptivo": "Rosquilla Splenda",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3431692,
+    "UPC": 2356465,
+    "Descriptivo": "Figura Española Pañuelo",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3431694,
+    "UPC": 2356467,
+    "Descriptivo": "Figura Española Hebilla",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3431695,
+    "UPC": 2356468,
+    "Descriptivo": "Rollos con Azúcar",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3431697,
+    "UPC": 2356470,
+    "Descriptivo": "Gallina con Azúcar",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3432813,
+    "UPC": 2356481,
+    "Descriptivo": "Bolillo Artesanal",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3434830,
+    "UPC": 2356498,
+    "Descriptivo": "Galleta Deliciosa Chococajeta",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3442515,
+    "UPC": 2356528,
+    "Descriptivo": "Conchas Premium Marmoleada",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3442516,
+    "UPC": 2356529,
+    "Descriptivo": "Mini Concha Premium Marmoleada",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3444603,
+    "UPC": 2359416,
+    "Descriptivo": "Pan Crystal",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3445079,
+    "UPC": 2356571,
+    "Descriptivo": "Paq x 8 Pan Hamburguesa Centeno Negro",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3445880,
+    "UPC": 2356550,
+    "Descriptivo": "Multis Marmoleado",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3445881,
+    "UPC": 2356572,
+    "Descriptivo": "Paq x 8 Pan Hamburguesa Hierbas Finas",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3445882,
+    "UPC": 2356573,
+    "Descriptivo": "Paq x 8 Pan Hamburguesa Tomate",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3478194,
+    "UPC": 2356874,
+    "Descriptivo": "R Bolillo Yucateco",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "R"
+  },
+  {
+    "Art": 3485063,
+    "UPC": 2356972,
+    "Descriptivo": "Cremosito Pza.",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3485981,
+    "UPC": 2357002,
+    "Descriptivo": "Paq. x 20 Bollo de Papa",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3531860,
+    "UPC": 2357321,
+    "Descriptivo": "R Paq x 10 Pan Torta Escolar",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "R"
+  },
+  {
+    "Art": 3541853,
+    "UPC": 2357377,
+    "Descriptivo": "Ciabatta Precocida FS",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3541855,
+    "UPC": 2357379,
+    "Descriptivo": "Panecillo Precocido (Fs)",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3543834,
+    "UPC": 2357380,
+    "Descriptivo": "Paq. x 5 Muffin",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "HAWA",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3546741,
+    "UPC": 2357391,
+    "Descriptivo": "Muffin Vainilla 110g",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3546742,
+    "UPC": 2357392,
+    "Descriptivo": "Muffin Naranja 110g",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3546743,
+    "UPC": 2357393,
+    "Descriptivo": "Muffin Tres Chocolates 110g",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3546745,
+    "UPC": 2357394,
+    "Descriptivo": "Muffin Chocolate 110g",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3546746,
+    "UPC": 2357396,
+    "Descriptivo": "Muffin Fresa\/Mantequilla 110g",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3546747,
+    "UPC": 2357397,
+    "Descriptivo": "Muffin Marmoleado 110g",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3546749,
+    "UPC": 2357398,
+    "Descriptivo": "Muffin Capuchino 110g",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3546760,
+    "UPC": 2357399,
+    "Descriptivo": "Muffin Blueberry 110g",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3548719,
+    "UPC": 2357400,
+    "Descriptivo": "MATCHA Concha Premium",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3548740,
+    "UPC": 2357411,
+    "Descriptivo": "MATCHA Dona W",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3548741,
+    "UPC": 2357412,
+    "Descriptivo": "MATCHA Ojo Vainilla",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3548742,
+    "UPC": 2357413,
+    "Descriptivo": "MATCHA Galleta Mantequilla",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3548743,
+    "UPC": 2357414,
+    "Descriptivo": "MATCHA Polvorón",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3548745,
+    "UPC": 2357416,
+    "Descriptivo": "MATCHA Panquecito",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3561494,
+    "UPC": 2357492,
+    "Descriptivo": "Paq. x 8 Bollo de Papa",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3577171,
+    "UPC": 2357751,
+    "Descriptivo": "Pan De Muerto Ajonjolí Extra Gde 800gr",
+    "MESA": "BISCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "T"
+  },
+  {
+    "Art": 3578668,
+    "UPC": 2357731,
+    "Descriptivo": "Pan De Muerto Azúcar Extra Gde 800gr",
+    "MESA": "BISCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "T"
+  },
+  {
+    "Art": 3603818,
+    "UPC": 2358013,
+    "Descriptivo": "R Gorditas Nata Pieza",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "R"
+  },
+  {
+    "Art": 3605580,
+    "UPC": 2358047,
+    "Descriptivo": "Moñito con nuez",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3605582,
+    "UPC": 2358048,
+    "Descriptivo": "Broca Azucarada",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3605586,
+    "UPC": 2358054,
+    "Descriptivo": "Pan de arándano con chocolate",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3605587,
+    "UPC": 2358053,
+    "Descriptivo": "Pan de cacahuate y pepita",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3605760,
+    "UPC": 2358055,
+    "Descriptivo": "Pan de Queso Parmesano",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3612537,
+    "UPC": 2358123,
+    "Descriptivo": "Pan de Multicereales",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3626914,
+    "UPC": 2358267,
+    "Descriptivo": "Paq. x4 Bollo Parrillero",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3630018,
+    "UPC": 2358285,
+    "Descriptivo": "Bagel Jalapeño con Queso",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3630019,
+    "UPC": 2358286,
+    "Descriptivo": "Bagel Tocino",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3630030,
+    "UPC": 2358287,
+    "Descriptivo": "Bagel Queso",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3630031,
+    "UPC": 2358288,
+    "Descriptivo": "Bagel Pesto",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3630032,
+    "UPC": 2358289,
+    "Descriptivo": "Bagel Natural",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3630033,
+    "UPC": 2358290,
+    "Descriptivo": "Bagel Arándano\/Nuez",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3630670,
+    "UPC": 2358311,
+    "Descriptivo": "Paq X 4 Bagel Jalapeño con Queso",
+    "MESA": "FRANCES",
+    "TIPO ART": "HAWA",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3630671,
+    "UPC": 2358312,
+    "Descriptivo": "Paq X 4 Bagel Tocino",
+    "MESA": "FRANCES",
+    "TIPO ART": "HAWA",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3630672,
+    "UPC": 2358313,
+    "Descriptivo": "Paq x 4 Bagel Queso",
+    "MESA": "FRANCES",
+    "TIPO ART": "HAWA",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3630673,
+    "UPC": 2358314,
+    "Descriptivo": "Paq x 4 Bagel Pesto",
+    "MESA": "FRANCES",
+    "TIPO ART": "HAWA",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3630674,
+    "UPC": 2358315,
+    "Descriptivo": "Paq x 4 Bagel Natural",
+    "MESA": "FRANCES",
+    "TIPO ART": "HAWA",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3630675,
+    "UPC": 2358316,
+    "Descriptivo": "Paq x 4 Bagel Arándano\/Nuez",
+    "MESA": "FRANCES",
+    "TIPO ART": "HAWA",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3640593,
+    "UPC": 2358422,
+    "Descriptivo": "Panque Vainilla",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FRIP",
+    "ESTATUS ": "NR",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3640594,
+    "UPC": 2358423,
+    "Descriptivo": "Panque Chocolate",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FRIP",
+    "ESTATUS ": "NR",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3640595,
+    "UPC": 2358424,
+    "Descriptivo": "Panque Marmoleado",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FRIP",
+    "ESTATUS ": "NR",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3640596,
+    "UPC": 2358425,
+    "Descriptivo": "Panque Nuez",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FRIP",
+    "ESTATUS ": "NR",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3658128,
+    "UPC": 2358629,
+    "Descriptivo": "Pan Pulque Empanada con crema",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3658129,
+    "UPC": 2358630,
+    "Descriptivo": "Pan Pulque Picón con Piloncillo",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3658170,
+    "UPC": 2358651,
+    "Descriptivo": "Pan Pulque Picón Blanco con Piloncillo",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3658171,
+    "UPC": 2358652,
+    "Descriptivo": "Pan Pulque Colchón con Ajonjolí",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3658172,
+    "UPC": 2358653,
+    "Descriptivo": "Pan Pulque Flor",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3658173,
+    "UPC": 2358654,
+    "Descriptivo": "Pan Pulque Barrita",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3662056,
+    "UPC": 2358835,
+    "Descriptivo": "Mantecadas",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FRIP",
+    "ESTATUS ": "NR",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3662057,
+    "UPC": 2358836,
+    "Descriptivo": "Panquesitos",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FRIP",
+    "ESTATUS ": "NR",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3662058,
+    "UPC": 2358837,
+    "Descriptivo": "Chino Nuez",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FRIP",
+    "ESTATUS ": "NR",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3663728,
+    "UPC": 2358952,
+    "Descriptivo": "Paq. x 3 Mantecadas F",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "HAWA",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3663729,
+    "UPC": 2358953,
+    "Descriptivo": "Paq. x 6 Mantecadas F",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "HAWA",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3673924,
+    "UPC": 2359083,
+    "Descriptivo": "Mini Muffin Vainilla",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3673928,
+    "UPC": 2359087,
+    "Descriptivo": "Oreja Choco Premium",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3673929,
+    "UPC": 2359088,
+    "Descriptivo": "Abanico Choco\/Nuez Premium",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3673930,
+    "UPC": 2359089,
+    "Descriptivo": "Muffin Paq x 12 Mini Muffin Vainilla",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "HAWA",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3673931,
+    "UPC": 2359090,
+    "Descriptivo": "Muffin Paq x 12 Mini Muffin chocolate",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "HAWA",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3673932,
+    "UPC": 2359091,
+    "Descriptivo": "Muffin Paq x 12 Mini Muffin Marmoleado",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "HAWA",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3677565,
+    "UPC": 7503030127370,
+    "Descriptivo": "Sin Gluten Red Zanahoria 80",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FRIP",
+    "ESTATUS ": "NR",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3677566,
+    "UPC": 7503030127394,
+    "Descriptivo": "Sin Gluten Red Vlla con Queso 80",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FRIP",
+    "ESTATUS ": "NR",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3677567,
+    "UPC": 7503030127387,
+    "Descriptivo": "Sin Gluten Red Platano Nuez 80",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FRIP",
+    "ESTATUS ": "NR",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3677568,
+    "UPC": 7503030127349,
+    "Descriptivo": "Sin Gluten Panque Elote 100",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FRIP",
+    "ESTATUS ": "NR",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3677569,
+    "UPC": 7503030127356,
+    "Descriptivo": "Sin Gluten Panque Coco 100",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FRIP",
+    "ESTATUS ": "NR",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3677570,
+    "UPC": 7503030127363,
+    "Descriptivo": "Sin Gluten Panque Choco 100",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FRIP",
+    "ESTATUS ": "NR",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3678494,
+    "UPC": 2359131,
+    "Descriptivo": "Pan de 89 Calorías Paquete 6 Pzas",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3685564,
+    "UPC": 2359234,
+    "Descriptivo": "R Birote Salado Ahogada Precocido",
+    "MESA": "FRANCES",
+    "TIPO ART": "FRIP",
+    "ESTATUS ": "NR",
+    "TIPO DE PROGRAMA": "R"
+  },
+  {
+    "Art": 3685565,
+    "UPC": 2359235,
+    "Descriptivo": "R Birote Salado Mediano Precocido",
+    "MESA": "FRANCES",
+    "TIPO ART": "FRIP",
+    "ESTATUS ": "NR",
+    "TIPO DE PROGRAMA": "R"
+  },
+  {
+    "Art": 3685566,
+    "UPC": 2359236,
+    "Descriptivo": "R Birote Fleima Picadera Precocido",
+    "MESA": "FRANCES",
+    "TIPO ART": "FRIP",
+    "ESTATUS ": "NR",
+    "TIPO DE PROGRAMA": "R"
+  },
+  {
+    "Art": 3685567,
+    "UPC": 2359237,
+    "Descriptivo": "R Bola Dulce Precocido",
+    "MESA": "FRANCES",
+    "TIPO ART": "FRIP",
+    "ESTATUS ": "NR",
+    "TIPO DE PROGRAMA": "R"
+  },
+  {
+    "Art": 3685568,
+    "UPC": 2359238,
+    "Descriptivo": "R Birote Dulce Precocido",
+    "MESA": "FRANCES",
+    "TIPO ART": "FRIP",
+    "ESTATUS ": "NR",
+    "TIPO DE PROGRAMA": "R"
+  },
+  {
+    "Art": 3685569,
+    "UPC": 2359239,
+    "Descriptivo": "R Birote Salado Ahogada Cocido",
+    "MESA": "FRANCES",
+    "TIPO ART": "FRIP",
+    "ESTATUS ": "NR",
+    "TIPO DE PROGRAMA": "R"
+  },
+  {
+    "Art": 3685570,
+    "UPC": 2359240,
+    "Descriptivo": "R Birote Salado Mediano Cocido",
+    "MESA": "FRANCES",
+    "TIPO ART": "FRIP",
+    "ESTATUS ": "NR",
+    "TIPO DE PROGRAMA": "R"
+  },
+  {
+    "Art": 3685571,
+    "UPC": 2359241,
+    "Descriptivo": "R Birote Fleima Picadera Cocido",
+    "MESA": "FRANCES",
+    "TIPO ART": "FRIP",
+    "ESTATUS ": "NR",
+    "TIPO DE PROGRAMA": "R"
+  },
+  {
+    "Art": 3685572,
+    "UPC": 2359242,
+    "Descriptivo": "R Bola Dulce Cocido",
+    "MESA": "FRANCES",
+    "TIPO ART": "FRIP",
+    "ESTATUS ": "NR",
+    "TIPO DE PROGRAMA": "R"
+  },
+  {
+    "Art": 3685573,
+    "UPC": 2359243,
+    "Descriptivo": "R Birote Dulce Cocido",
+    "MESA": "FRANCES",
+    "TIPO ART": "FRIP",
+    "ESTATUS ": "NR",
+    "TIPO DE PROGRAMA": "R"
+  },
+  {
+    "Art": 3691109,
+    "UPC": 2359274,
+    "Descriptivo": "Rosca Multisabor",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "HAWA",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3693582,
+    "UPC": 2359351,
+    "Descriptivo": "R Canilla Veracruzana Paq. 10 Pzas",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "R"
+  },
+  {
+    "Art": 3693621,
+    "UPC": 2359354,
+    "Descriptivo": "Picón de Mantequilla \/Crema con Ajonjolí",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3693622,
+    "UPC": 2359355,
+    "Descriptivo": "Cocol de Mantequilla \/Crema con Ajonjolí",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3693623,
+    "UPC": 2359356,
+    "Descriptivo": "Rehilete de Mantequilla \/Crema con Ajonj",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3693624,
+    "UPC": 2359357,
+    "Descriptivo": "Cocol Mantequilla con Ajonjolí",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3693625,
+    "UPC": 2359358,
+    "Descriptivo": "Envuelto relleno Fresa",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3693626,
+    "UPC": 2359359,
+    "Descriptivo": "Envuelto relleno Crema",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3697242,
+    "UPC": 2359371,
+    "Descriptivo": "Cocol de Piloncillo Grande",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "R"
+  },
+  {
+    "Art": 3700956,
+    "UPC": 2359383,
+    "Descriptivo": "kosher Pan de Caja",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3700957,
+    "UPC": 2359384,
+    "Descriptivo": "kosher Pan de Hamburguesa",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3701925,
+    "UPC": 2512855,
+    "Descriptivo": "kosher Mini Banderillas",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3701926,
+    "UPC": 2512856,
+    "Descriptivo": "kosher Mini Orejitas",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3705136,
+    "UPC": 2359407,
+    "Descriptivo": "Chocolatín pz",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FRIP",
+    "ESTATUS ": "NR",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3705138,
+    "UPC": 2359409,
+    "Descriptivo": "Croissant  pz",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FRIP",
+    "ESTATUS ": "NR",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3705396,
+    "UPC": 2359412,
+    "Descriptivo": "Baguette Reposada",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3713379,
+    "UPC": 2359441,
+    "Descriptivo": "Empanada de Manzana Caramelizada",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3713380,
+    "UPC": 2359442,
+    "Descriptivo": "Trenza de Arandano",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3713381,
+    "UPC": 2359443,
+    "Descriptivo": "Trenza de Chocolate",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3713382,
+    "UPC": 2359444,
+    "Descriptivo": "Croissant de Almendra",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3713383,
+    "UPC": 2359445,
+    "Descriptivo": "Rollo de Croissant Pasas",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3716145,
+    "UPC": 2359490,
+    "Descriptivo": "Pretzel Pieza",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3716146,
+    "UPC": 2359491,
+    "Descriptivo": "Pretzel Bites Pza",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3716147,
+    "UPC": 2359492,
+    "Descriptivo": "Bollo Hamburguesa Brioche 580 grs",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3716148,
+    "UPC": 2359493,
+    "Descriptivo": "Bollo Hamburguesa Parrille Brioche 580gr",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3716149,
+    "UPC": 2359494,
+    "Descriptivo": "Pan Hot Dog Brioche",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3716150,
+    "UPC": 2359495,
+    "Descriptivo": "Rosca Brioche con Queso",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3716151,
+    "UPC": 2359496,
+    "Descriptivo": "Pan de Caja Brioche 580 grs",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3716152,
+    "UPC": 2359497,
+    "Descriptivo": "Pierna Rellena de Cajeta",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "R"
+  },
+  {
+    "Art": 3716153,
+    "UPC": 2359498,
+    "Descriptivo": "Pierna Rellena de Fresa",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "R"
+  },
+  {
+    "Art": 3716154,
+    "UPC": 2359499,
+    "Descriptivo": "Pierna Rellena de Piña",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "R"
+  },
+  {
+    "Art": 3716155,
+    "UPC": 2359500,
+    "Descriptivo": "Pierna Rellena de Queso Zarzamora",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "R"
+  },
+  {
+    "Art": 3716258,
+    "UPC": 2359517,
+    "Descriptivo": "Paq. Donas x 6 Pzas",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "HAWA",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3718139,
+    "UPC": 2359571,
+    "Descriptivo": "Dona Krone Chocolate Granillo",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FRIP",
+    "ESTATUS ": "NR",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3718140,
+    "UPC": 2359572,
+    "Descriptivo": "Dona Krone Blanca Infinito",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FRIP",
+    "ESTATUS ": "NR",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3718141,
+    "UPC": 2359573,
+    "Descriptivo": "Dona Krone Infinito",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FRIP",
+    "ESTATUS ": "NR",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3722291,
+    "UPC": 2359637,
+    "Descriptivo": "Bisquet Integral",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3722293,
+    "UPC": 2359639,
+    "Descriptivo": "Cuerno Integral",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3734257,
+    "UPC": 2359696,
+    "Descriptivo": "Rosca Vainilla Hallowen",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3742002,
+    "UPC": 2359782,
+    "Descriptivo": "Paq x 4 Bagel",
+    "MESA": "FRANCES",
+    "TIPO ART": "HAWA",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3747111,
+    "UPC": 2359851,
+    "Descriptivo": "R Birote Fleima",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "R"
+  },
+  {
+    "Art": 3752410,
+    "UPC": 2359971,
+    "Descriptivo": "Kouign Amann",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3752891,
+    "UPC": 2360021,
+    "Descriptivo": "Galleta Soft Matcha \/Nutela 100",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FRIP",
+    "ESTATUS ": "NR",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3752892,
+    "UPC": 2360022,
+    "Descriptivo": "Chocolatisima Amaranto \/Funcional 100 gr",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FRIP",
+    "ESTATUS ": "NR",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3752900,
+    "UPC": 2360001,
+    "Descriptivo": "Galleta Soft Chispas de Chocolate",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FRIP",
+    "ESTATUS ": "NR",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3752901,
+    "UPC": 2360002,
+    "Descriptivo": "Galleta Soft Chocoleche \/Conejito",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FRIP",
+    "ESTATUS ": "NR",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3752902,
+    "UPC": 2360003,
+    "Descriptivo": "Galleta Soft Caramelo",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FRIP",
+    "ESTATUS ": "NR",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3756011,
+    "UPC": 2360041,
+    "Descriptivo": "Pan de Muerto Conejo Grande",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "T"
+  },
+  {
+    "Art": 3756012,
+    "UPC": 2360042,
+    "Descriptivo": "Pan de Muerto Conejo Chico",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "T"
+  },
+  {
+    "Art": 3756013,
+    "UPC": 2360043,
+    "Descriptivo": "Pan De Muerto MMs Grande",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "T"
+  },
+  {
+    "Art": 3756014,
+    "UPC": 2360044,
+    "Descriptivo": "Pan De Muerto MMs Chico",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "T"
+  },
+  {
+    "Art": 3768918,
+    "UPC": 2360484,
+    "Descriptivo": "Hogaza Cerveza Carbon Activado",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3769870,
+    "UPC": 2360486,
+    "Descriptivo": "Pan de Betabel",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3769871,
+    "UPC": 2360487,
+    "Descriptivo": "Pan Centeno Carbon Activado",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3769874,
+    "UPC": 2360490,
+    "Descriptivo": "Hogaza Centeno Negro",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3769877,
+    "UPC": 2360493,
+    "Descriptivo": "Pan de Curry\/Pasas",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3769878,
+    "UPC": 2360494,
+    "Descriptivo": "Pan de Arandano\/Nuez",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3769879,
+    "UPC": 2360495,
+    "Descriptivo": "Filon de Ajo\/Mantequilla",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3769880,
+    "UPC": 2360496,
+    "Descriptivo": "Ciabatta Queso Parmesano",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3769881,
+    "UPC": 2360497,
+    "Descriptivo": "Pan de Pesto",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3769884,
+    "UPC": 2360500,
+    "Descriptivo": "Ciabbata Multigrano",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3769886,
+    "UPC": 2360502,
+    "Descriptivo": "Ciabbata Hierbas Grande",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3769887,
+    "UPC": 2360503,
+    "Descriptivo": "Barra Hierbas Finas \/Queso",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3769888,
+    "UPC": 2360504,
+    "Descriptivo": "Filon Betabel \/Arandano",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3769889,
+    "UPC": 2360505,
+    "Descriptivo": "Baguette Reposada AB",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3769901,
+    "UPC": 2360507,
+    "Descriptivo": "Barra Reposada AB",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3775928,
+    "UPC": 2361140,
+    "Descriptivo": "R Torta de Agua",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "R"
+  },
+  {
+    "Art": 3786224,
+    "UPC": 2361391,
+    "Descriptivo": "R Pan de Leña",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "R"
+  },
+  {
+    "Art": 3798319,
+    "UPC": 2361815,
+    "Descriptivo": "R Mini Rosca Brioche",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "R"
+  },
+  {
+    "Art": 3803081,
+    "UPC": 2361941,
+    "Descriptivo": "R Fino Panadero de Canela",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "R"
+  },
+  {
+    "Art": 3803084,
+    "UPC": 2361942,
+    "Descriptivo": "R Tronco de Canela",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "R"
+  },
+  {
+    "Art": 3803086,
+    "UPC": 2361943,
+    "Descriptivo": "R Payasito",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "R"
+  },
+  {
+    "Art": 3803088,
+    "UPC": 2361944,
+    "Descriptivo": "R Chuz Azucarado",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "R"
+  },
+  {
+    "Art": 3803089,
+    "UPC": 2361945,
+    "Descriptivo": "R Chuz Relleno",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "R"
+  },
+  {
+    "Art": 3813698,
+    "UPC": 2362169,
+    "Descriptivo": "Croissant Crema de Galleta Caramelizada",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3814840,
+    "UPC": 2362211,
+    "Descriptivo": "Croiss Roll Rell de Galleta Caramelizada",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3817674,
+    "UPC": 7501253679751,
+    "Descriptivo": "Pan de Caja Integral Selecto 625 grs",
+    "MESA": "FRANCES",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3817675,
+    "UPC": 2362252,
+    "Descriptivo": "Pan Tostado Integral Chedraui",
+    "MESA": "FRANCES",
+    "TIPO ART": "HAWA",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "IN"
+  },
+  {
+    "Art": 3821663,
+    "UPC": 2362331,
+    "Descriptivo": "Concha Premium Vlla Galleta Caramelizada",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3821665,
+    "UPC": 2362332,
+    "Descriptivo": "Concha Premium Choc Galleta Caramelizada",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3822505,
+    "UPC": 2362381,
+    "Descriptivo": "Dona Old Fashion Doble Chocolate",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FRIP",
+    "ESTATUS ": "NR",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3822506,
+    "UPC": 2362382,
+    "Descriptivo": "Dona Old Fashión Cookies and Cream",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FRIP",
+    "ESTATUS ": "NR",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3822507,
+    "UPC": 2362383,
+    "Descriptivo": "Dona Old Fashion Vainilla",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FRIP",
+    "ESTATUS ": "NR",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3824602,
+    "UPC": 7501253686209,
+    "Descriptivo": "Baguette EP 2 Piezas",
+    "MESA": "FRANCES",
+    "TIPO ART": "FRIP",
+    "ESTATUS ": "RC",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3824603,
+    "UPC": 7501253686223,
+    "Descriptivo": "Media Baguette EP 2 Piezas",
+    "MESA": "FRANCES",
+    "TIPO ART": "FRIP",
+    "ESTATUS ": "RC",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3824604,
+    "UPC": 7501253686216,
+    "Descriptivo": "Ciabatta EP 2 Piezas",
+    "MESA": "FRANCES",
+    "TIPO ART": "FRIP",
+    "ESTATUS ": "RC",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3824605,
+    "UPC": 7503034477051,
+    "Descriptivo": "Banderilla Kary",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FRIP",
+    "ESTATUS ": "NR",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3825430,
+    "UPC": 2362295,
+    "Descriptivo": "Coyota de Cajeta",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3825431,
+    "UPC": 2362296,
+    "Descriptivo": "Cocol de Anís",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3825432,
+    "UPC": 2362297,
+    "Descriptivo": "Pan de feria",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3825433,
+    "UPC": 2362298,
+    "Descriptivo": "Chorreada",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3825998,
+    "UPC": 2362404,
+    "Descriptivo": "Flat Croissant Frutos Rojos",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "N"
+  },
+  {
+    "Art": 3827368,
+    "UPC": 2362386,
+    "Descriptivo": "Dona Cobertura Limón",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3830118,
+    "UPC": 2362299,
+    "Descriptivo": "Rosca de Limón",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3833127,
+    "UPC": 2362409,
+    "Descriptivo": "Dona Old Fashion Glaseada",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": 0
+  },
+  {
+    "Art": 3833597,
+    "UPC": 2362421,
+    "Descriptivo": "Flat Croissant Chocoamargo",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "N"
+  },
+  {
+    "Art": 3833598,
+    "UPC": 2362422,
+    "Descriptivo": "Flat Croissant Chocoleche",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "N"
+  },
+  {
+    "Art": 3833599,
+    "UPC": 2362423,
+    "Descriptivo": "Flan Cake",
+    "MESA": "BIZCOCHO",
+    "TIPO ART": "FERT",
+    "ESTATUS ": "AT",
+    "TIPO DE PROGRAMA": "N"
+  }
+]
